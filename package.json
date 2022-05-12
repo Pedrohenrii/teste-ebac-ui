@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Pedrohenrii/teste-ebac-ui#readme",
   "dependencies": {
-    "cypress": "^9.6.0"
+    "@faker-js/faker": "^6.3.1",
+    "cypress": "^9.6.0",
+    "faker": "^5.5.3"
   }
 }
